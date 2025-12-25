@@ -13,7 +13,8 @@ I design frameworks, write playbooks, and build simple artifacts that help human
 - 📘 **Prompt Engineering Playbook**  
   A teaching-first, systems-oriented guide to prompt engineering  
   → https://mazmansoor.github.io/prompt-engineering-playbook/
-
+  → https://github.com/Mazmansoor/Working-Intelligence/
+  
 - ♟️ *Chess, strategy, and clarity under pressure*  
   (Writing in progress)
 
