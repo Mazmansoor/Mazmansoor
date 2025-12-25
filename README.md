@@ -9,7 +9,7 @@ I design frameworks, write playbooks, and build systems that help humans think c
 - 🧩 Mental models for strategy, ethics, and decision-making  
 - ✍️ Writing playbooks, essays, and structured thinking tools  
 
-### Selected Work
+### Selected Work/WIP
 - 📘 **Prompt Engineering Playbook**  
   A teaching-first, systems-oriented guide to prompt engineering  
   → https://mazmansoor.github.io/prompt-engineering-playbook/
@@ -18,10 +18,14 @@ I design frameworks, write playbooks, and build systems that help humans think c
   Essays and frameworks on clarity, cognition, and human judgment  
   → https://mazmansoor.github.io/Working-Intelligence/
 
-- ♟️ **Win the Game** *(book)*  
+- ♟️ **Win the Game** *(book)*[  ](https://zavia-677639174626.us-east4.run.app/)
   A framework for clarity, strategy, and long-term advantage in a noisy world  
-  → https://a.co/d/43Hr0J9
-
+  → https://a.co/d/43Hr0J9  
+  
+- 🧠 **Zavia**  
+  A smart personal assitant. 
+  → https://zavia-677639174626.us-east4.run.app/
+  
 ### How I Think
 - Prompts are **interfaces**, not tricks  
 - Clarity compounds  
