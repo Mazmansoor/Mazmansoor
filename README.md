@@ -59,8 +59,6 @@ I design **enduring architectures** for thinking, learning, and decision-making.
 
 - ✈️ **Travel IQ — Intelligent Journey Platform** *(WIP)*  
   An AI-powered platform exploring intelligent travel planning, personalization, and decision support  
-  Region: `us-west1`  
-  → https://travel-iq-the-intelligent-journey-platform-457779047919.us-west1.run.app  
 
 ---
 
