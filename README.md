@@ -2,37 +2,41 @@
 
 I work at the intersection of **thinking, systems, and intelligence**.
 
-I design frameworks, write playbooks, and build simple artifacts that help humans work more clearly with complex systems — especially AI.
+I design frameworks, write playbooks, and build simple artifacts that help humans think more clearly and act more deliberately in complex systems — especially those shaped by AI.
 
 ### Current Focus
-- 🧠 Prompt engineering as a *design discipline*
-- 🧩 Mental models for strategy, ethics, and decision-making
-- ✍️ Writing: playbooks, essays, and structured thinking tools
+- 🧠 Prompt engineering as a *design discipline*, not a bag of tricks  
+- 🧩 Mental models for strategy, ethics, and decision-making  
+- ✍️ Writing playbooks, essays, and structured thinking tools  
 
 ### Selected Work
 - 📘 **Prompt Engineering Playbook**  
   A teaching-first, systems-oriented guide to prompt engineering  
   → https://mazmansoor.github.io/prompt-engineering-playbook/  
-    → https://github.com/Mazmansoor/Working-Intelligence/  
-    
-- ♟️ *Chess, strategy, and clarity under pressure*  
-  (Writing in progress)
+
+- 🧠 **Working Intelligence**  
+  Notes and frameworks on clarity, cognition, and human judgment  
+  → https://github.com/Mazmansoor/Working-Intelligence  
+
+- ♟️ **Win the Game** *(book)*  
+  A meditation on clarity, strategy, and long-term advantage in a noisy world  
+  → Writing & development in progress  
 
 ### How I Think
 - Prompts are **interfaces**, not tricks  
-- Clarity compounds  
+- Clarity compounds over time  
 - Structure beats cleverness  
-- Ethics matter more when systems scale  
+- Ethics matter more as systems scale  
 
 ### Background
-- Program Manager (public infrastructure & planning)
-- Business & ethics educator
-- Writer focused on AI, leadership, and human judgment
+- Program Manager in public infrastructure & long-term planning  
+- Business and ethics educator  
+- Writer focused on AI, leadership, and human judgment  
 
 ### Collaboration
 I’m open to:
-- Thoughtful collaborations
-- Teaching or curriculum design
-- Writing or research at the edge of AI & society
+- Thoughtful collaborations  
+- Teaching or curriculum design  
+- Writing or research at the edge of AI, strategy, and society  
 
 📫 Reach me via GitHub or professional networks.
