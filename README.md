@@ -2,7 +2,7 @@
 
 I work at the intersection of **thinking, systems, and intelligence**.
 
-I design frameworks, write playbooks, and build simple artifacts that help humans think clearly and act deliberately inside complex systems — especially those shaped by AI.
+I design frameworks, write playbooks, and build systems that help humans think clearly and act deliberately inside complex systems — especially those shaped by AI.
 
 ### Current Focus
 - 🧠 Prompt engineering as a *design discipline*, not a bag of tricks  
