@@ -15,13 +15,13 @@ I design frameworks, write playbooks, and build systems that help humans think c
   Long-form writing exploring clarity, ethics, and decision-making  
   → https://medium.com/@mazharmansoor  
 
-- 🧠 **Working Intelligence**  
-  Essays and frameworks on cognition, clarity, and structured thinking  
-  → https://mazmansoor.github.io/Working-Intelligence/
-
 ---
 
-### Playbooks & Teaching
+### Learning Sites & Playbooks
+- 🧠 **Working Intelligence**  
+  A learning site for Python and machine learning, focused on clear thinking and foundational understanding  
+  → https://mazmansoor.github.io/Working-Intelligence/
+
 - 📘 **Prompt Engineering Playbook**  
   A teaching-first, systems-oriented guide to prompt engineering  
   → https://mazmansoor.github.io/prompt-engineering-playbook/
