@@ -52,10 +52,15 @@ I design **enduring architectures** for thinking, learning, and decision-making.
   An AI-first assistant exploring orchestration, agentic workflows, and practical intelligence  
   → https://zavia-677639174626.us-east4.run.app  
 
-- 🏥 **CareLink — Home Health Tele-Care Hub** *(deployed)*  
+- 🏥 **CareLink — Home Health Tele-Care Hub** *(WIP)*  
   A production cloud system for tele-care coordination, exploring AI-assisted workflows in healthcare  
   Region: `us-west1`  
   → https://carelink-home-health-tele-care-hub-528055573386.us-west1.run.app  
+
+- ✈️ **Travel IQ — Intelligent Journey Platform** *(WIP)*  
+  An AI-powered platform exploring intelligent travel planning, personalization, and decision support  
+  Region: `us-west1`  
+  → https://travel-iq-the-intelligent-journey-platform-457779047919.us-west1.run.app  
 
 ---
 
