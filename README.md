@@ -61,7 +61,7 @@ I design **enduring architectures** for thinking, learning, and decision-making.
   An AI-powered platform exploring intelligent travel planning, personalization, and decision support    
 
 - 🏥 **Salat Guide — Embark on a more mindful and consistent prayer journey.** *(WIP)*    
-  Embark on a more mindful and consistent prayer journey.
+  Embark on a more mindful and consistent prayer journey.  
   → https://salat-guide-560589645548.us-west1.run.app/  
 ---
 
