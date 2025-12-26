@@ -57,9 +57,12 @@ I design **enduring architectures** for thinking, learning, and decision-making.
   Region: `us-west1`  
   → https://carelink-home-health-tele-care-hub-528055573386.us-west1.run.app  
 
-- ✈️ **Travel IQ — Intelligent Journey Platform** *(WIP)*  
-  An AI-powered platform exploring intelligent travel planning, personalization, and decision support  
+- ✈️ **Travel IQ — Intelligent Journey Platform** *(WIP)*    
+  An AI-powered platform exploring intelligent travel planning, personalization, and decision support    
 
+- 🏥 **Salat Guide — Embark on a more mindful and consistent prayer journey.** *(WIP)*    
+  Embark on a more mindful and consistent prayer journey.
+  → https://salat-guide-560589645548.us-west1.run.app/  
 ---
 
 ### How I Build
