@@ -59,10 +59,15 @@ I design **enduring architectures** for thinking, learning, and decision-making.
 
 - ✈️ **Travel IQ — Intelligent Journey Platform** *(WIP)*    
   An AI-powered platform exploring intelligent travel planning, personalization, and decision support    
+  → https://travel-iq-99699079588.us-west1.run.app/  
 
 - 🏥 **Salat Guide — Embark on a more mindful and consistent prayer journey.** *(WIP)*    
   Embark on a more mindful and consistent prayer journey.  
-  → https://salat-guide-560589645548.us-west1.run.app/  
+  → https://salat-guide-560589645548.us-west1.run.app/
+
+  - 🏥 **Personality IQ** *(WIP)*    
+   → https://personality-iq-778065193054.us-west1.run.app
+ 
 ---
 
 ### How I Build
