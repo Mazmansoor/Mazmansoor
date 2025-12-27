@@ -1,4 +1,4 @@
-Mazhar Mansoor  
+## Mazhar Mansoor  
 Architect of intelligence. Builder of modern systems.
 
 I design and deploy AI-first platforms, learning systems, and decision frameworks that operate under real-world constraints—where clarity, reliability, and governance matter as much as technical capability.
