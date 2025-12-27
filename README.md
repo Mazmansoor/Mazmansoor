@@ -75,6 +75,10 @@ A production cloud system for tele-care coordination, exploring AI-assisted work
 AI-powered travel planning, personalization, and decision support  
 → https://travel-iq-99699079588.us-west1.run.app/
 
+✈️ **Ihsan — The Path of Excellence* (WIP)  
+...
+→ https://ihsan-the-path-of-excellence-462813572680.us-west1.run.app  
+
 🕌 **Salat Guide** (WIP)  
 A system supporting mindful, consistent practice  
 → https://salat-guide-560589645548.us-west1.run.app/
