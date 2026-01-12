@@ -24,17 +24,7 @@ I design enduring architectures for thinking, learning, and decision-making.
 ## Core Repositories (Foundational Work)
 
 These repositories form the backbone of how I think and build.
-
-🧠 **Intelligence Lab**  
-A long-term research and design space for understanding intelligent systems before they are built.  
-Focuses on problem framing, constraints, system design, evaluation, and postmortems.  
-→ https://github.com/Mazmansoor/intelligence-lab
-
-🏗️ **AI App Template**  
-A reusable execution template for building AI-powered applications with agents, prompts, evals, and infrastructure.  
-Designed to enforce discipline: docs before code, evals before scale.  
-→ https://github.com/Mazmansoor/ai-app-template
-
+TBD
 ---
 
 ## Books, Essays & Intellectual Work
@@ -49,26 +39,10 @@ Long-form writing on ethics, leadership, systems, and intelligence
 
 ---
 
-## Learning Systems & Playbooks
-
-🧠 **Working Intelligence**  
-A learning platform teaching Python and machine learning through clear mental models and systems thinking  
-→ https://mazmansoor.github.io/Working-Intelligence/
-
-📘 **Prompt Engineering Playbook**  
-A teaching-first, architecture-driven guide to designing reliable AI interactions  
-→ https://mazmansoor.github.io/prompt-engineering-playbook/
 
 ---
 
 ## Applied Systems (Built / Deployed)
-
-🤖 **Zavia** (AI system — WIP)  
-An AI-first assistant exploring orchestration, agentic workflows, and practical intelligence  
-→ https://zavia-677639174626.us-east4.run.app
-
-🏥 **CareLink — Home Health Tele-Care Hub** (WIP)  
-A production cloud system for tele-care coordination, exploring AI-assisted workflows in healthcare  
 
 ✈️ **Travel IQ — Intelligent Journey Platform** (WIP)  
 AI-powered travel planning, personalization, and decision support  
