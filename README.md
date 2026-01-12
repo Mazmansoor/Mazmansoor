@@ -48,7 +48,6 @@ Long-form writing on ethics, leadership, systems, and intelligence
 AI-powered travel planning, personalization, and decision support  
 
 🧩 **Personality IQ** (WIP)  
-→ https://personality-iq-778065193054.us-west1.run.app
 
 ---
 
